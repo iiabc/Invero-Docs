@@ -50,6 +50,8 @@ Please note that except for declaring the material of the root node which is nec
 | **nbt**             | -                    | Map                 | Item NBT properties            |
 | **enhancedLore**    | -                    | Bool                | Enable enhanced Lore parsing   |
 | **slot**            | slots                | (List) Int / String | Specify display slot           |
+| **hide-tooltip**    | hide_tooltip         | Bool                | Whether to hide item tooltip (1.20.5+)   |
+| **item-model**      | item_model           | String              | Item model (1.21.2+)          |
 
 > Special material source properties  
 > All nodes below accept String type values
